@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hello, I'm Uwais Khan 👋<br><br>🎓 Data Science Student<br>💻 Python Developer<br>📊 Data Analytics & Machine Learning Enthusiast<br>🤖 Interested in AI, Smart Agriculture, and Real-Time Analytics<br><br>## Skills<br>- Python<br>- SQL<br>- Pandas<br>- NumPy<br>- Scikit-Learn<br>- Power BI<br>- Machine Learning<br>- Data Visualization<br><br>## Current Focus<br>Building real-world Data Science projects and improving my Machine Learning skills.<br><br>📫 Reach me: khanbhai505808@gmail.com
+# Hi, I'm Uwais Khan 👋<br><br>🎓 Data Science Student<br>💻 Python Developer<br>📊 Data Analytics & Machine Learning Enthusiast<br>🤖 Interested in AI, Smart Agriculture, and Real-Time Analytics<br><br>## Skills<br>- Python<br>- SQL<br>- Pandas<br>- NumPy<br>- Scikit-Learn<br>- Power BI<br>- Machine Learning<br>- Data Visualization<br><br>## Current Focus<br>Building real-world Data Science projects and improving my Machine Learning skills.<br><br>📫 Reach me: khanbhai505808@gmail.com
 
 
 
